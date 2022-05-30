@@ -1,0 +1,1 @@
+# ElectionResult2022
